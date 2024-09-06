@@ -6,5 +6,12 @@ def newFunction ():
 def Funcion2 ():
     print("Segunda función")
     
+    
+def Funcion3 ():
+    print("Tercera función")
+    
+
+    
 newFunction()
 Funcion2()
+Funcion3()
